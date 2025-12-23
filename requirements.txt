@@ -1,0 +1,6 @@
+openai
+pandas
+numpy
+faiss-cpu
+PyMuPDF
+python-dotenv
